@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    flex-direction: column;
+    padding: 0px 230px;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0px 80px;
+
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    gap: 15px;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+.hero {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+.main-pic {
+   width: 380px;
+   height: 160px;
+}
+
+.hero-title {
+    font-size: 48px;
+    font-weight: bold;
+}
