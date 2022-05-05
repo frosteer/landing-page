@@ -107,6 +107,7 @@ a {
 .info-content {
     display: flex;
     flex-direction: row;
+    gap: 30px;
     
 }
 
@@ -116,6 +117,7 @@ a {
     justify-content: center;
     align-items: center;
     text-align: center;
+    
     
     
 }
